@@ -1,3 +1,4 @@
+# Importa Módulo ActiveDirectory
 Import-Module ActiveDirectory
 
 $excel = Read-Host "Cole (botão direito) o caminho do .csv aqui"
